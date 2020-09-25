@@ -5,7 +5,7 @@
 	"maps": [
 		{
 			"mapName": "Main Map",
-			"mapImageSrc": "https://hifi-json.s3.us-west-2.amazonaws.com/house-BG-default-WIP_2k.jpg",
+			"mapImageSrc": "https://hifi-content.s3.amazonaws.com/zfox/temp/playa.jpg",
 			"mapLandmarks": [
 				{
 					"name": "Youtube Playlist",
@@ -18,7 +18,8 @@
 					"heightSU": 1,
 					"hexColor": "#c634eb",
 					"textHexColor": "#000000",
-					"href": "https://www.youtube.com/watch?v=v2AC41dglnM&list=RDEMDs8vWIQKMflBG8QUQQaUrw&start_radio=1",
+					"href": "https://www.youtube.com/watch?v=v2AC41dglnM",
+					"autoplay": true,
 					"imageHref": "https://i.imgur.com/R8GMYxz.png"
 				}
 			]
