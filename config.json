@@ -10,15 +10,15 @@
 				{
 					"name": "Youtube Playlist",
 					"positionSU": {
-						"x": 2000,
-						"y": 600,
+						"x": 50,
+						"y": 100,
 						"z": 0
 					},
 					"widthSU": 1,
 					"heightSU": 1,
 					"hexColor": "#c634eb",
 					"textHexColor": "#000000",
-					"href": "https://www.youtube.com/watch?v=KGD2N5hJ2e0&list=RDKGD2N5hJ2e0&start_radio=1",
+					"href": "https://www.youtube.com/watch?v=v2AC41dglnM&list=RDEMDs8vWIQKMflBG8QUQQaUrw&start_radio=1",
 					"imageHref": "https://i.imgur.com/R8GMYxz.png"
 				}
 			]
