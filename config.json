@@ -20,7 +20,8 @@
 					"textHexColor": "#000000",
 					"href": "https://www.youtube.com/watch?v=v2AC41dglnM",
 					"autoplay": true,
-					"imageHref": "https://i.imgur.com/R8GMYxz.png"
+					"imageHref": "https://i.imgur.com/R8GMYxz.png",
+					"audioOnly": true
 				}
 			]
 		}
