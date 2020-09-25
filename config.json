@@ -5,7 +5,7 @@
 	"maps": [
 		{
 			"mapName": "Main Map",
-			"mapImageSrc": "https://hifi-content.s3.amazonaws.com/zfox/temp/playa.jpg",
+			"mapImageSrc": "https://hifi-json.s3.us-west-2.amazonaws.com/house-BG-default-WIP_2k.jpg",
 			"mapLandmarks": [
 				{
 					"name": "Youtube Playlist",
